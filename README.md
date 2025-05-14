@@ -20,8 +20,7 @@ This Power BI dashboard analyzes and visualizes mortgage loan credit risk data f
 - **Domain Expertise** – Credit Risk in Banking & Mortgage
 
 ## 🖼 Dashboard Preview
-
-![Dashboard Screenshot]([dashboard-preview.png](https://github.com/SmrutiRekhaRana/Mortgage-Credit-Risk-Dashboard/blob/main/Dashboard_Preview.png)
+![Dashboard_Preview](https://github.com/user-attachments/assets/d9fc76c6-0d3c-4693-b468-cae174d90cd4)
 <a href="https://github.com/SmrutiRekhaRana/Mortgage-Credit-Risk-Dashboard/blob/main/Mortgage_Credit_Risk.pbix">PowerBI Dashboard</a>
 
 ## 📁 Dataset Used
@@ -65,7 +64,7 @@ This dashboard is useful for **credit risk analysts, financial institutions**, a
 
 I’m **Smrutirekha Rana**, a data analyst with experience in **mortgage credit risk and portfolio monitoring**. I specialize in delivering insights that help financial teams make better, data-driven decisions.
 
-📎 [Connect with me on LinkedIn](https://linkedin.com/in/smrutirekha-rana)
+📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/ranasmrutirekha/)
 
 
 
